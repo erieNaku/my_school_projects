@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1619980602 source:c:\users\animmemaster\desktop\marywood\second semester\c++ 2\finalproject\navigation.cpp
+	"Navigation.h"
+
+1619983617 c:\users\animmemaster\desktop\marywood\second semester\c++ 2\finalproject\navigation.h
+	<iostream>
+	"Navigation.h"
+	"Task.h"
+	"TimedTask.h"
+	"PrioritizedTime.h"
+	<vector>
+	<string>
+	<fstream>
+
+1619984306 source:c:\users\animmemaster\desktop\marywood\second semester\c++ 2\finalproject\prioritiedtask.cpp
+	"PrioritiedTask.h"
+
+1619984291 c:\users\animmemaster\desktop\marywood\second semester\c++ 2\finalproject\prioritiedtask.h
+	"Task.h"
+	<iostream>
+
+1619984320 source:c:\users\animmemaster\desktop\marywood\second semester\c++ 2\finalproject\task.cpp
+	"Task.h"
+
+1619984098 c:\users\animmemaster\desktop\marywood\second semester\c++ 2\finalproject\task.h
+	<string>
+	<iostream>
+
+1619980288 source:c:\users\animmemaster\desktop\marywood\second semester\c++ 2\finalproject\timedtask.cpp
+	"TimedTask.h"
+
+1619980288 c:\users\animmemaster\desktop\marywood\second semester\c++ 2\finalproject\timedtask.h
+	"Task.h"
+	<iostream>
+
+1619980289 source:c:\users\animmemaster\desktop\marywood\second semester\c++ 2\finalproject\main.cpp
+	<iostream>
+	"Navigation.h"
+	"Task.h"
+	"PrioritiedTask.h"
+	"TimedTask.h"
+	"PrioritizedTime.h"
+	<vector>
+	<string>
+
+1619238574 source:c:\users\animmemaster\desktop\marywood\second semester\c++ 2\finalproject\prioritizedtimed.cpp
+	"PrioritizedTimed.h"
+
+1619878447 c:\users\animmemaster\desktop\marywood\second semester\c++ 2\finalproject\prioritizedtimed.h
+	"PrioritiedTask.h"
+	"TimedTask.h"
+	<iostream>
+
+1619886232 source:c:\users\animmemaster\desktop\marywood\second semester\c++ 2\finalproject\prioritizedtime.cpp
+	"PrioritizedTime.h"
+
+1619984435 c:\users\animmemaster\desktop\marywood\second semester\c++ 2\finalproject\prioritizedtime.h
+	"TimedTask.h"
+	"PrioritiedTask.h"
+	"Task.h"
+	<iostream>
+

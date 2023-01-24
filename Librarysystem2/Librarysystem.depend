@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1615840790 source:c:\users\animmemaster\desktop\marywood\second semester\c++ 2\librarysystem\main.cpp
+	<iostream>
+	"Menu.h"
+
+1615913149 source:c:\users\animmemaster\desktop\marywood\second semester\c++ 2\librarysystem\booklist.cpp
+	"Booklist.h"
+	<iostream>
+	"Checkout.h"
+	<string>
+	<fstream>
+
+1615909794 c:\users\animmemaster\desktop\marywood\second semester\c++ 2\librarysystem\booklist.h
+	<iostream>
+	<vector>
+	"Checkin.h"
+	"Checkout.h"
+	<string>
+
+1615860479 source:c:\users\animmemaster\desktop\marywood\second semester\c++ 2\librarysystem\checkin.cpp
+	"Checkin.h"
+	<iostream>
+
+1615860479 c:\users\animmemaster\desktop\marywood\second semester\c++ 2\librarysystem\checkin.h
+	<iostream>
+
+1615861252 source:c:\users\animmemaster\desktop\marywood\second semester\c++ 2\librarysystem\checkout.cpp
+	"Checkout.h"
+	<iostream>
+	"Booklist.h"
+	<string>
+
+1615900322 c:\users\animmemaster\desktop\marywood\second semester\c++ 2\librarysystem\checkout.h
+	<iostream>
+	"Booklist.h"
+	<string>
+
+1615913175 source:c:\users\animmemaster\desktop\marywood\second semester\c++ 2\librarysystem\patron.cpp
+	"Patron.h"
+	<iostream>
+	<vector>
+	"Menu.h"
+	<fstream>
+
+1615911002 c:\users\animmemaster\desktop\marywood\second semester\c++ 2\librarysystem\patron.h
+	<iostream>
+	<vector>
+	<string>
+
+1615911378 c:\users\animmemaster\desktop\marywood\second semester\c++ 2\librarysystem\menu.h
+	<iostream>
+
+1615911388 source:c:\users\animmemaster\desktop\marywood\second semester\c++ 2\librarysystem\menu.cpp
+	"Menu.h"
+	<iostream>
+	"Checkout.h"
+	"Checkin.h"
+	"Patron.h"
+	"Booklist.h"
+
+1616718331 source:c:\users\animmemaster\desktop\marywood\second semester\c++ 2\librarysystem2\booklist.cpp
+	"Booklist.h"
+	<iostream>
+	"Checkout.h"
+	<string>
+	<fstream>
+	"Menu.h"
+
+1616598254 c:\users\animmemaster\desktop\marywood\second semester\c++ 2\librarysystem2\booklist.h
+	<iostream>
+	<vector>
+	"Checkin.h"
+	"Checkout.h"
+	<string>
+
+1616598062 c:\users\animmemaster\desktop\marywood\second semester\c++ 2\librarysystem2\checkin.h
+	<iostream>
+
+1616597992 c:\users\animmemaster\desktop\marywood\second semester\c++ 2\librarysystem2\checkout.h
+	<iostream>
+	"Booklist.h"
+	<string>
+
+1616598062 source:c:\users\animmemaster\desktop\marywood\second semester\c++ 2\librarysystem2\checkin.cpp
+	"Checkin.h"
+	<iostream>
+
+1616598038 source:c:\users\animmemaster\desktop\marywood\second semester\c++ 2\librarysystem2\checkout.cpp
+	"Checkout.h"
+	<iostream>
+	"Booklist.h"
+	<string>
+
+1616622433 source:c:\users\animmemaster\desktop\marywood\second semester\c++ 2\librarysystem2\main.cpp
+	<iostream>
+	"Menu.h"
+	"Patron.h"
+	<vector>
+	"Booklist.h"
+	"Patron.h"
+	<string>
+
+1616718890 c:\users\animmemaster\desktop\marywood\second semester\c++ 2\librarysystem2\menu.h
+	<iostream>
+	"Patron.h"
+	"Checkout.h"
+	"Checkin.h"
+	"Patron.h"
+	"Booklist.h"
+	<stdlib.h>
+	<string>
+
+1616718890 source:c:\users\animmemaster\desktop\marywood\second semester\c++ 2\librarysystem2\menu.cpp
+	"Menu.h"
+	<iostream>
+	"Patron.h"
+	"Booklist.h"
+	<stdlib.h>
+	<string>
+	<vector>
+	<algorithm>
+
+1616718890 c:\users\animmemaster\desktop\marywood\second semester\c++ 2\librarysystem2\patron.h
+	<iostream>
+	<vector>
+	<string>
+	"Checkin.h"
+	"Checkout.h"
+
+1616718912 source:c:\users\animmemaster\desktop\marywood\second semester\c++ 2\librarysystem2\patron.cpp
+	"Patron.h"
+	<iostream>
+	<vector>
+	"Menu.h"
+	<fstream>
+	<string>
+

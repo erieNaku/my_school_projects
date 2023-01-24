@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="CCards" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/CCards" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+					<Add directory="../CreditCardsProjectA" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/CCards" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+					<Add directory="../CreditCardsProjectA" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="AbstractAmExCC.cpp" />
+		<Unit filename="AbstractAmExCC.hpp" />
+		<Unit filename="AbstractDiscoverCC.cpp" />
+		<Unit filename="AbstractDiscoverCC.hpp" />
+		<Unit filename="AbstractMasterCC.cpp" />
+		<Unit filename="AbstractMasterCC.hpp" />
+		<Unit filename="AbstractVisaCC.cpp" />
+		<Unit filename="AbstractVisaCC.hpp" />
+		<Unit filename="CCards.cbp" />
+		<Unit filename="CreditCard.cpp" />
+		<Unit filename="CreditCard.hpp" />
+		<Unit filename="LonLonCC.cpp" />
+		<Unit filename="LonLonCC.hpp" />
+		<Unit filename="TakingCC.cpp" />
+		<Unit filename="TakingCC.hpp" />
+		<Unit filename="include/AbstractLonLonCC.h" />
+		<Unit filename="include/LonLonCC.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

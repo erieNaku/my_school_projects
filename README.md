@@ -1,4 +1,2 @@
 # my_school_projects
-This is a test to see if I could push my school projects on here.
-hello this is now stuff. hello
-I don't think it worked
+This is a collection of projects I worked on during my first year of college. A few are collaborations between me and other students. 
